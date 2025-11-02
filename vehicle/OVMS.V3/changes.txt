@@ -1,5 +1,8 @@
 Open Vehicle Monitor System v3 - Change log
 
+2025-10-31 MB   3.?.????  OTA release
+- THINK City:
+	Added 0x344 CASE to capture valid TPMS pressure values
 ????-??-?? ???  ???????  OTA release
 - Wifi: added command to restart the Wifi network into the default (autostart) config,
     and added default for the AP SSID on the apclient mode.
